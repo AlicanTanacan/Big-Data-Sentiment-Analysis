@@ -1,7 +1,7 @@
 ### ------- Ubiqum Module 4: Big Data ------- ###
 ### ---------- Sentiment Analysis ----------- ###
 ### ------------ Alican Tanaçan ------------- ###
-### ----- Version 5: Model Development ------ ###
+### -- Version 5: Final Model Development --- ###
 
 ### ---- Libraries ----
 if(require("pacman") == "FALSE"){
