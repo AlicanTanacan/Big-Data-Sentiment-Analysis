@@ -1,6 +1,6 @@
 ### ------- Ubiqum Module 4: Big Data ------- ###
 ### ---------- Sentiment Analysis ----------- ###
-### ------------ Alican Tanaçan ------------- ###
+### ------------ Alican TanaÃ§an ------------- ###
 ### ----- Version 5: Model Development ------ ###
 
 ### ---- Libraries ----
@@ -333,3 +333,11 @@ AccuracyMetrics <- AccuracyMetrics[, c(3,1,2)]
 ## Arranging by Rsquared, MAE and Accuracy to see the best models
 AccuracyMetrics %>% 
   arrange(desc(Accuracy))
+
+#          Algorithms  Accuracy     Kappa
+# 1   RFmodel1metrics 0.8750000 0.7494127
+# 2 kkNNmodel1metrics 0.8703125 0.7398629
+# 3   RFmodel2metrics 0.8648649 0.7297297
+# 4  C50model1metrics 0.8390625 0.6755778
+# 5 kkNNmodel2metrics 0.8378378 0.6756757
+# 6  C50model2metrics 0.7837838 0.5675676
