@@ -1,4 +1,4 @@
-Big Data Module - Sentiment Analysis
+Ubiqum - Big Data Module - Sentiment Analysis
 Alican Tanaçan
 
 ---- Introduction ----
