@@ -1,4 +1,5 @@
 Ubiqum - Big Data Module - Sentiment Analysis
+Amazon Web Services - Python - R
 Alican Tanaçan
 
 ---- Introduction ----
