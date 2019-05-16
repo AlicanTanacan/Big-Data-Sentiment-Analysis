@@ -1,6 +1,6 @@
 Ubiqum - Big Data Module - Sentiment Analysis
 Amazon Web Services - Python - R
-Alican Tanaçan
+by Alican Tanaçan
 
 ---- Introduction ----
 The Helio Project is about finding the most suitable, sentimental smart phone for medical apps to help aid workers communicate 
